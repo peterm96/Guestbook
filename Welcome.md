@@ -9,3 +9,4 @@ Please enter your name in the list below to welcome yourself to Porticode III!
 - Santa Claus
 - The Tooth Fairy
 - Chris Hammond
+- Peter McGrath
